@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=500&color=1330F7&vCenter=true&width=435&height=43&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B)](https://git.io/typing-svg)
+<p align="center;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=1E0EF7&vCenter=true&width=435&height=40&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" style="padding: 0px 0px 10px 10px;" src="pAndC.gif" width="300" />
 
@@ -27,7 +29,7 @@ Reach out! I don't bite and I love an excuse to get a coffee.
 </p>
 
 ### Tools:
-Honestly, I pick things up pretty quickly, but I tend to return to these the most:
+I pick most tools up pretty quickly, but I tend to return to these the most:
 <p style="text-align: center;">
 <a href="https://https://jupyter.org"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
