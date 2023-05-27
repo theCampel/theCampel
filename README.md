@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=1E0EF7&vCenter=true&width=435&height=40&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" style="padding: 0px 0px 10px 10px;" src="pAndC.gif" width="300" />
+<img align="right" style="padding: 0px 0px 10px 10px;" src="Planning&Control.gif" width="300" />
 
 I'm a 2nd year [Computer Science](https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=view&code=G401) 
 student at [The University of Edinburgh](https://www.ed.ac.uk). I love all things 
