@@ -12,7 +12,7 @@ student at [The University of Edinburgh](https://www.ed.ac.uk). I love all thing
 - I'm an active member in [Edinburgh University Formula Student](www.eufs.co), specifically in the Driverless Statics sub-team. 
 - We're preparing for _[Formula Student](https://www.imeche.org/events/formula-student) 
 Silverstone 2023_, where we'll present a business case for Autonomous Electric buses that 
-will attempt to solve poverty. 
+will attempt to solve *transport poverty*. 
 - I'll also present case studies analysing _Japan's readiness for SAE Level 4_ and a case studies into
 _Racial Bias in AVs_, specifically their Perception ability.
 
