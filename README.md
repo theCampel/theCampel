@@ -1,8 +1,8 @@
 <p align="center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=1E0EF7&vCenter=true&width=435&height=40&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&vCenter=true&width=435&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" style="padding: 10px 0px 10px 10px;" src="Planning&Control.gif" width="300" />
+<img align="right" style="padding: 10px 10px 10px 10px;" src="Planning&Control.gif" width="300" />
 
 I'm a 2nd year [Computer Science](https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=view&code=G401) 
 student at [The University of Edinburgh](https://www.ed.ac.uk). I love all things 
@@ -10,7 +10,7 @@ student at [The University of Edinburgh](https://www.ed.ac.uk). I love all thing
 
 ### Currently:
 - I'm in the _Driverless Perception sub-team_ in [Edinburgh University Formula Student](www.eufs.co). Our current challenge is devising ways to overlap Lidar with camera data.
-- Building personal projects utilising LLMs and OpenAI's latest models.
+- I'm building personal projects utilising LLMs and OpenAI's latest models.
 - I will shortly begin freelancing on [UpWork](https://www.upwork.com/freelancers/~01567f21a2f60c4829?viewMode=1), specialising on _Machine Learning_ and _LLMs_!
 
 
