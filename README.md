@@ -2,21 +2,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=1E0EF7&vCenter=true&width=435&height=40&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" style="padding: 0px 0px 10px 10px;" src="Planning&Control.gif" width="300" />
+<img align="right" style="padding: 10px 0px 10px 10px;" src="Planning&Control.gif" width="300" />
 
 I'm a 2nd year [Computer Science](https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=view&code=G401) 
 student at [The University of Edinburgh](https://www.ed.ac.uk). I love all things 
 **Ai, Self-Driving and Cybersecurity**!
 
 ### Currently:
-- I'm an active member in [Edinburgh University Formula Student](www.eufs.co), specifically in the _Driverless Perception_ sub-team. We're currently working on overlapping Lidar with Camera information!
+- I'm in the _Driverless Perception sub-team_ in [Edinburgh University Formula Student](www.eufs.co). Our current challenge is devising ways to overlap Lidar with camera data.
 - Building personal projects utilising LLMs and OpenAI's latest models.
 - I will shortly begin freelancing on [UpWork](https://www.upwork.com/freelancers/~01567f21a2f60c4829?viewMode=1), specialising on _Machine Learning_ and _LLMs_!
 
 
 ### Recent Experience:
-- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies into _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS. 
-- I've interned at a [ITUS Secure Technologies](https://itus-tech.com), a Cybersecurity startup that aided the
+- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies on _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS. 
+- I interned at a [ITUS Secure Technologies](https://itus-tech.com), a Cybersecurity startup that aided the
 recovery of cybercrime victims, as well as general security managed services.
 - I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk). We developed a discreet
 EEG that allowed Locked-In patients to communicate with previously incommunicable patients. 
