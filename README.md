@@ -9,16 +9,15 @@ student at [The University of Edinburgh](https://www.ed.ac.uk). I love all thing
 **Ai, Self-Driving and Cybersecurity**!
 
 ### Currently:
-- I'm an active member in [Edinburgh University Formula Student](www.eufs.co), specifically in the Driverless Statics sub-team. 
-- We're preparing for _[Formula Student](https://www.imeche.org/events/formula-student) 
-Silverstone 2023_, where we'll present a business case for Autonomous Electric buses that 
-will attempt to solve *transport poverty*. 
-- I'll also present case studies analysing _Japan's readiness for SAE Level 4_ and a case studies into
-_Racial Bias in AVs_, specifically their Perception ability.
+- I'm an active member in [Edinburgh University Formula Student](www.eufs.co), specifically in the _Driverless Perception_ sub-team. We're currently working on overlapping Lidar with Camera information!
+- Building personal projects utilising LLMs and OpenAI's latest models.
+- I will shortly begin freelancing on [UpWork](https://www.upwork.com/freelancers/~01567f21a2f60c4829?viewMode=1), specialising on _Machine Learning_ and _LLMs_!
 
-### Experience:
+
+### Recent Experience:
+- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies into _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS. 
 - I've interned at a [ITUS Secure Technologies](https://itus-tech.com), a Cybersecurity startup that aided the
-recovery of cybercrime victims, as well as general security managed services. 
+recovery of cybercrime victims, as well as general security managed services.
 - I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk). We developed a discreet
 EEG that allowed Locked-In patients to communicate with previously incommunicable patients. 
 
