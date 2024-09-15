@@ -11,11 +11,11 @@ student at [The University of Edinburgh](https://www.ed.ac.uk). I love all thing
 ### Currently:
 - I'm in the _Driverless Perception sub-team_ in [Edinburgh University Formula Student](www.eufs.co). Our current challenge is devising ways to overlap Lidar with camera data.
 - I'm building personal projects utilising LLMs and OpenAI's latest models.
-- I will shortly begin freelancing on [UpWork](https://www.upwork.com/freelancers/~01567f21a2f60c4829?viewMode=1), specialising on _Machine Learning_ and _LLMs_!
 
 
 ### Recent Experience:
-- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies on _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS. 
+- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies on _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS.
+- I interned recently at JP Morgan, adopting a "How does it scale" attitude and learning about cloud!
 - I interned at a [ITUS Secure Technologies](https://itus-tech.com), a Cybersecurity startup that aided the
 recovery of cybercrime victims, as well as general security managed services.
 - I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk). We developed a discreet
