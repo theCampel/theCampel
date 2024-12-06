@@ -4,22 +4,22 @@
 
 <img align="right" style="padding: 10px 10px 10px 10px;" src="Planning&Control.gif" width="300" />
 
-I'm a 2nd year [Computer Science](https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=view&code=G401) 
-student at [The University of Edinburgh](https://www.ed.ac.uk). I love all things 
+I'm a 3rd year [Computer Science](https://leocamacho.co/Computer-Science) 
+student at [The University of Edinburgh](https://www.leocamacho.co/University-of-Edinburgh). I love all things 
 **Ai, Self-Driving and Cybersecurity**!
 
-### Currently:
-- I'm in the _Driverless Perception sub-team_ in [Edinburgh University Formula Student](www.eufs.co). Our current challenge is devising ways to overlap Lidar with camera data.
-- I'm building personal projects utilising LLMs and OpenAI's latest models.
+### About Me:
+  - I ***co-founded*** my University's [AI](https://leocamacho.co/AI) Society, [EdinburghAI](https://leocamacho.co/EdinburghAI), where I'm currently ***President***.
+  - I'm an active member of [EUFS](https://leocamacho.co/EUFS), a society that builds [Self-driving cars](https://leocamacho.co/Autonomous-Vehicles) race cars from scratch. I'm currently trying to use [Machine Learning](https://leocamacho.co/) to optimise the global path around the race track.
+  - This past summer, I interned at JPMorganChase as a [software engineer](https://leocamacho.co/)!
 
 
 ### Recent Experience:
 - Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies on _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS.
-- I interned recently at JP Morgan, adopting a "How does it scale" attitude and learning about cloud!
-- I interned at a [ITUS Secure Technologies](https://itus-tech.com), a Cybersecurity startup that aided the
-recovery of cybercrime victims, as well as general security managed services.
-- I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk). We developed a discreet
-EEG that allowed Locked-In patients to communicate with previously incommunicable patients. 
+- In Summer 2023, I interned at **JPMorgan Chase** as a software engineer. I learned how to build at scale with AWS.
+- I interned at [ITUS Secure Technologies](https://itus-tech.com/), a Cybersecurity startup that aided the recovery of cybercrime victims, as well as general security managed services.
+- I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk/). We developed a discreet EEG that allowed Locked-In patients to communicate with previously incommunicable patients.
+
 
 ### Fancy a chat?
 Reach out! I don't bite and I love an excuse to get a coffee. 
