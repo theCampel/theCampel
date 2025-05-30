@@ -8,6 +8,8 @@ I'm a 3rd year [Computer Science](https://leocamacho.co/Computer-Science)
 student at [The University of Edinburgh](https://www.leocamacho.co/University-of-Edinburgh). I love all things 
 **Ai, Self-Driving and Cybersecurity**!
 
+| Check out my website [here](https://www.leocamacho.co)!
+
 ### About Me:
   - I ***co-founded*** my University's [AI](https://leocamacho.co/AI) Society, [EdinburghAI](https://leocamacho.co/EdinburghAI), where I'm currently ***President***.
   - I'm an active member of [EUFS](https://leocamacho.co/EUFS), a society that builds [Self-driving cars](https://leocamacho.co/Autonomous-Vehicles) race cars from scratch. I'm currently trying to use [Machine Learning](https://leocamacho.co/) to optimise the global path around the race track.
