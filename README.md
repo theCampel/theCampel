@@ -4,7 +4,7 @@
 
 <img align="right" style="padding: 10px 10px 10px 10px;" src="Planning&Control.gif" width="300" />
 
-I'm a 3rd year [Computer Science](https://leocamacho.co/Computer-Science) 
+I'm a 4th year [Computer Science](https://leocamacho.co/Computer-Science) 
 student at [The University of Edinburgh](https://www.leocamacho.co/University-of-Edinburgh). I love all things 
 **Ai, Self-Driving and Cybersecurity**!
 
