@@ -11,16 +11,21 @@ student at [The University of Edinburgh](https://www.leocamacho.co/University-of
 | Check out my website [here](https://www.leocamacho.co)!
 
 ### About Me:
-  - I ***co-founded*** my University's [AI](https://leocamacho.co/AI) Society, [EdinburghAI](https://leocamacho.co/EdinburghAI), where I'm currently ***President***.
-  - I'm an active member of [EUFS](https://leocamacho.co/EUFS), a society that builds [Self-driving cars](https://leocamacho.co/Autonomous-Vehicles) race cars from scratch. I'm currently trying to use [Machine Learning](https://leocamacho.co/) to optimise the global path around the race track.
-  - This past summer, I interned at JPMorganChase as a [software engineer](https://leocamacho.co/)!
+  - I ***co-founded*** my University's AI society, [EdinburghAI](https://www.edinburghai.org), where I'm currently ***President***.
+  - I love a good hackathon. Two notable ones:
+      - We built, launched and sold a company [in 20 hours](https://x.com/LeoCamacho43/status/2001997999367721068).
+      - We built a realtime [speech-to-whiteboard](https://www.youtube.com/watch?v=7tANdJDI4sg).
+  - Previously in [EUFS](https://leocamacho.co/EUFS), a society that builds [Self-driving cars](https://leocamacho.co/Autonomous-Vehicles) race cars from scratch. Did R&D into to using [RL](https://leocamacho.co/) to optimise the global path around the race track.
 
 
 ### Recent Experience:
-- Winners of _[Formula Student](https://www.imeche.org/events/formula-student) Silverstone 2023_. I co-presented case studies on _Racial Bias in AVs_, _Japan's Readiness for SAE4_ and _business cases for Autonomous Buses aiding transport poverty_, which won us that category of FS.
-- In Summer 2023, I interned at **JPMorgan Chase** as a software engineer. I learned how to build at scale with AWS.
-- I interned at [ITUS Secure Technologies](https://itus-tech.com/), a Cybersecurity startup that aided the recovery of cybercrime victims, as well as general security managed services.
-- I spent a research internship at [NeuroConcise](https://www.neuroconcise.co.uk/). We developed a discreet EEG that allowed Locked-In patients to communicate with previously incommunicable patients.
+- I was an AI Engineer Intern at [V7 Labs](https://www.v7labs.com). Built:
+    - Excel Q&A, ask any Excel question and it responds with citations
+    - Automated LLM Benchmarking
+    - Made AI agents that made other AI agents. The langgraph for this was a b*tch.
+    - Much more. Lots of love to the cracked team x
+- Lots of hackathons. Won @ Optiver, Google, sold a company @ Project Europe x Lovable, went viral @ OpenAI x Tech Europe and loads more. Some of them are on my [LinkedIn](https://www.linkedin.com/in/leo-camacho/)
+- Surfing. I love it and can't recommend it enough.
 
 
 ### Fancy a chat?
