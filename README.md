@@ -8,10 +8,10 @@ Recent work spans low-cost bilateral teleoperation, realtime voice-controlled wh
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| Sensorless Bilateral Teleoperation | A low-cost bimanual teleoperation platform with custom 2x-scaled 3D-printed follower arms and sensorless force feedback from motor current. | [Repo](https://github.com/theCampel/sensorless-bilateral-teleop) · [Project page](https://leocamacho.co/teleop) · [DOI](https://doi.org/10.13140/RG.2.2.31526.28487) |
-| Realtime Speech-to-Whiteboard | A browser app that turns spoken architecture descriptions into editable tldraw diagrams through the OpenAI Realtime API. | [Repo](https://github.com/theCampel/realtime-whiteboard) · [Demo](https://youtu.be/7tANdJDI4sg) |
-| EdinburghAI Workshops | Practical machine-learning workshop materials for EdinburghAI members. | [Repo](https://github.com/EdinburghAI/workshops) · [EdinburghAI](https://www.edinburghai.org) |
-| The Missing First Rung | A public-data economics paper testing whether AI-exposed occupations are tilting away from young workers before headline unemployment moves. | [Paper](https://leocamacho.co/papers/first-rung-public.pdf) · [Interactive essay](https://transition.leocamacho.co) · [DOI](https://doi.org/10.13140/RG.2.2.31316.56966) |
+| Sensorless Bilateral Teleoperation | A low-cost bimanual teleoperation platform with custom 2x-scaled 3D-printed follower arms and sensorless force feedback from motor current. | [Repo](https://github.com/theCampel/sensorless-bilateral-teleop) / [Project page](https://leocamacho.co/teleop) / [DOI](https://doi.org/10.13140/RG.2.2.31526.28487) |
+| Realtime Speech-to-Whiteboard | A browser app that turns spoken architecture descriptions into editable tldraw diagrams through the OpenAI Realtime API. | [Repo](https://github.com/theCampel/realtime-whiteboard) / [Demo](https://youtu.be/7tANdJDI4sg) |
+| EdinburghAI Workshops | Practical machine-learning workshop materials for EdinburghAI members. | [Repo](https://github.com/EdinburghAI/workshops) / [EdinburghAI](https://www.edinburghai.org) |
+| The Missing First Rung | A public-data economics paper testing whether AI-exposed occupations are tilting away from young workers before headline unemployment moves. | [Paper](https://leocamacho.co/papers/first-rung-public.pdf) / [Interactive essay](https://transition.leocamacho.co) / [DOI](https://doi.org/10.13140/RG.2.2.31316.56966) |
 
 ## Research
 
