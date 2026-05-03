@@ -1,48 +1,34 @@
-<p align="center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&vCenter=true&width=435&lines=Hi+there!;I'm+Leo+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
+# Leo Camacho
 
-<img align="right" style="padding: 10px 10px 10px 10px;" src="Planning&Control.gif" width="300" />
+I build AI systems, robotics tools, and research projects that turn messy real-world signals into working interfaces.
 
-I'm a 4th year [Computer Science](https://leocamacho.co/Computer-Science) 
-student at [The University of Edinburgh](https://www.leocamacho.co/University-of-Edinburgh). I love all things 
-**Ai, Self-Driving and Cybersecurity**!
+Recent work spans low-cost bilateral teleoperation, realtime voice-controlled whiteboards, public-data economics, and student AI education at EdinburghAI.
 
-| Check out my website [here](https://www.leocamacho.co)!
+## Featured Work
 
-### About Me:
-  - I ***co-founded*** my University's AI society, [EdinburghAI](https://www.edinburghai.org), where I'm currently ***President***.
-  - I love a good hackathon. Two notable ones:
-      - We built, launched and sold a company [in 20 hours](https://x.com/LeoCamacho43/status/2001997999367721068).
-      - We built a realtime [speech-to-whiteboard](https://www.youtube.com/watch?v=7tANdJDI4sg).
-  - Previously in [EUFS](https://leocamacho.co/EUFS), a society that builds [Self-driving cars](https://leocamacho.co/Autonomous-Vehicles) race cars from scratch. Did R&D into to using [RL](https://leocamacho.co/) to optimise the global path around the race track.
+| Project | What it is | Links |
+| --- | --- | --- |
+| Sensorless Bilateral Teleoperation | A low-cost bimanual teleoperation platform with custom 2x-scaled 3D-printed follower arms and sensorless force feedback from motor current. | [Repo](https://github.com/theCampel/sensorless-bilateral-teleop) · [Project page](https://leocamacho.co/teleop) · [DOI](https://doi.org/10.13140/RG.2.2.31526.28487) |
+| Realtime Speech-to-Whiteboard | A browser app that turns spoken architecture descriptions into editable tldraw diagrams through the OpenAI Realtime API. | [Repo](https://github.com/theCampel/realtime-whiteboard) · [Demo](https://youtu.be/7tANdJDI4sg) |
+| EdinburghAI Workshops | Practical machine-learning workshop materials for EdinburghAI members. | [Repo](https://github.com/EdinburghAI/workshops) · [EdinburghAI](https://www.edinburghai.org) |
+| The Missing First Rung | A public-data economics paper testing whether AI-exposed occupations are tilting away from young workers before headline unemployment moves. | [Paper](https://leocamacho.co/papers/first-rung-public.pdf) · [Interactive essay](https://transition.leocamacho.co) · [DOI](https://doi.org/10.13140/RG.2.2.31316.56966) |
 
+## Research
 
-### Recent Experience:
-- I was an AI Engineer Intern at [V7 Labs](https://www.v7labs.com). Built:
-    - Excel Q&A, ask any Excel question and it responds with citations
-    - Automated LLM Benchmarking
-    - Made AI agents that made other AI agents. The langgraph for this was a b*tch.
-    - Much more. Lots of love to the cracked team x
-- Lots of hackathons. Won @ Optiver, Google, sold a company @ Project Europe x Lovable, went viral @ OpenAI x Tech Europe and loads more. Some of them are on my [LinkedIn](https://www.linkedin.com/in/leo-camacho/)
-- Surfing. I love it and can't recommend it enough.
+- **Sensorless Bilateral Force Feedback for Low-Cost Scaled Teleoperation**  
+  ResearchGate preprint on force feedback for low-cost leader-follower robot arms. DOI: [10.13140/RG.2.2.31526.28487](https://doi.org/10.13140/RG.2.2.31526.28487)
 
+- **The Missing First Rung: Public Evidence on Young Workers Falling Behind in AI-Exposed Occupations**  
+  Public-data economics preprint matching CPS occupations to observed AI-use exposure. DOI: [10.13140/RG.2.2.31316.56966](https://doi.org/10.13140/RG.2.2.31316.56966)
 
-### Fancy a chat?
-Reach out! I don't bite and I love an excuse to get a coffee. 
-<p style="text-align: left;">
-<a href="https://www.linkedin.com/in/leo-camacho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## Selected Builds
 
-### Tools:
-I pick most tools up pretty quickly, but I tend to return to these the most:
-<p style="text-align: center;">
-<a href="https://https://jupyter.org"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=FFFFFF"/></a>
-<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href="https://www.office.com"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/></a>
-<a href="https://www.github.com"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-</p>
+- Co-founded and led [EdinburghAI](https://www.edinburghai.org), running workshops and technical programming for students interested in applied AI.
+- Built AI and automation systems as an AI Engineer Intern at [V7 Labs](https://www.v7labs.com).
+- Built and shipped hackathon projects across realtime voice interfaces, AI agents, prediction markets, and product-generation tools.
+
+## Links
+
+- Website: [leocamacho.co](https://www.leocamacho.co)
+- Writing: [leocamacho.co/essays](https://www.leocamacho.co/essays)
+- LinkedIn: [leo-camacho](https://www.linkedin.com/in/leo-camacho/)
